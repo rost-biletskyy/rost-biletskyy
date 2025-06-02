@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Rostyslav Biletskyy
-# Software Developer | React Engineer | Team Lead
+## Software Developer | React Engineer | Team Lead
 
 Experienced Front-End Developer with 4+ years of expertise in building high-performance, scalable applications using modern technologies and best engineering practices.
 
