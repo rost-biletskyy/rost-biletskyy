@@ -3,18 +3,18 @@ Software Developer | React Engineer | Team Lead
 
 Experienced Front-End Developer with 4+ years of expertise in building high-performance, scalable applications using modern technologies and best engineering practices.
 
-🛠 Tech Stack
-Core Frameworks/Libraries: React, Next.js, Redux Toolkit, React Router
-State Management: Redux, Context API, Redux Toolkit
-Styling: SCSS, CSS Modules, MUI, Tailwind CSS, Styled-Components
-Languages: TypeScript, JavaScript (Lodash, Moment.js, Axios, React Query)
-Testing/Code Quality: Jest, React Testing Library, Unit Testing
-Version Control: Git, Github, Gitlab
-Build Tools: Webpack, Babel, Npm, Yarn
-API's: REST, GraphQL, WebSocket
-Development Practices: Agile, Scrum
-CI/CD: Jenkins, CircleCi, GitHub Actions
-Additional Tools: ESLint, Prettier, Figma, Storybook
+## Tech Stack
+React, Next.js, Redux Toolkit, React Router
+Redux, Context API, Redux Toolkit
+SCSS, CSS Modules, MUI, Tailwind CSS, Styled-Components
+TypeScript, JavaScript (Lodash, Moment.js, Axios, React Query)
+Jest, React Testing Library, Unit Testing
+Git, Github, Gitlab
+Webpack, Babel, Npm, Yarn
+REST, GraphQL, WebSocket
+Agile, Scrum
+Jenkins, CircleCi, GitHub Actions
+ESLint, Prettier, Figma, Storybook
 Code Reviews and Mentoring
 
 
