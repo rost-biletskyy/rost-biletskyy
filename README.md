@@ -20,7 +20,6 @@ Code Reviews and Mentoring
 
 ---
 
-I’m passionate about clean, maintainable code and improving team performance through mentorship, collaboration, and code reviews.  
-Feel free to connect with me or check out my latest projects!
+I’m passionate about clean, maintainable code and improving team performance through mentorship, collaboration, and code reviews. Feel free to connect with me or check out my latest projects!
 
 🔗 [Portfolio & Contact](https://rost-biletskyy.mssg.me/)
