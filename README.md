@@ -1,10 +1,10 @@
 # Rostyslav Biletskyy
 Software Developer | React Engineer | Team Lead
 
-Experienced Front-End Developer with 4+ years of expertise in building high-performance, scalable applications using modern technologies and best engineering practices.
+Experienced FullStack Developer with 4+ years of expertise in building high-performance, scalable applications using modern technologies and best engineering practices.
 
 ## Tech Stack
-React, Next.js, Redux Toolkit, React Router
+React, Node(Express), Next.js, Redux Toolkit, React Router
 Redux, Context API, Redux Toolkit
 SCSS, CSS Modules, MUI, Tailwind CSS, Styled-Components
 TypeScript, JavaScript (Lodash, Moment.js, Axios, React Query)
