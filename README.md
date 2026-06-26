@@ -1,5 +1,5 @@
 # Rostyslav Biletskyy
-Software Developer | React Engineer | Team Lead
+Software Developer | FullStack Engineer | Team Lead
 
 Experienced FullStack Developer with 5 years of expertise in building high-performance, scalable applications using modern technologies and best engineering practices.
 
